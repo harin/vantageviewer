@@ -2,7 +2,7 @@
   "name": "vantageviewer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://harin.github.io/vantageviewer/docs",
+  "homepage": "https://harin.github.io/vantageviewer",
   "dependencies": {
     "autoprefixer": "7.1.6",
     "babel-jest": "^22.1.0",
